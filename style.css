@@ -1,0 +1,39 @@
+.main_container{
+    background-color: white;
+    /* color: white;  */
+    border-radius: 0.7rem;
+    padding: 1rem;
+    width: 23%;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px solid gray;
+}
+p{
+    font-size: 1.2rem;
+   word-spacing: 10px;
+}
+
+h1{
+    font-size: 4rem;
+    margin: 6rem 0 4rem 0;
+}
+
+
+.btn button{
+    padding: 1rem;
+    width: 100%;
+    border-radius: 2rem;
+    border: 1px solid black;
+}
+
+button{
+    font-size: 1rem;
+}
+
+h5{
+    font-size: 1.2rem;
+}
+
+.last{
+    margin-bottom: 8rem;
+}
